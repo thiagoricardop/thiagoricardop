@@ -1,43 +1,36 @@
 # Hi, I'm Thiago Ricardo 👋
 
-### 💡 Electrical Engineer | Cybersecurity & Embedded Systems Enthusiast
+### 🚗🔐 Automotive Cybersecurity & Embedded Systems Engineer
 
-I am a results-driven professional with a **Bachelor's degree in Electrical Engineering** with an emphasis on **Computer Science** from the Universidade Federal de Minas Gerais (UFMG). My expertise lies at the intersection of electrical and computing technologies. I am currently focusing on advanced topics in **Cybersecurity Engineering**, applying a background in software development and systems management to secure the digital landscape.
+I build and secure low-level software for connected vehicles — C/C++, RTOS/POSIX,
+Linux, and the in-vehicle network stack (CAN · LIN · FlexRay · Automotive Ethernet).
+
+🎓 M.Sc. Cybersecurity Engineering @ Politecnico di Torino (2025–2026)
+🚗 Postgrad in Automotive Software Development @ UFPE
+⚡ B.Sc. Electrical Engineering (emphasis CS) @ UFMG
+📍 Santa Cruz, CA · 🇺🇸 Authorized to work in the US (no sponsorship required)
 
 ---
 
-## 🎯 Specialties and Key Focus Areas
+## 🎯 Focus Areas
+- **Automotive security:** ECU architecture, CAN/LIN/FlexRay, Automotive Ethernet, AUTOSAR, ISO 26262, Automotive SPICE
+- **Embedded & RTOS:** C/C++, POSIX, QNX, OSEK-VDX, bare-metal & real-time systems
+- **Security engineering:** static analysis, threat modeling, MITRE ATT&CK, ML-assisted attack analysis
+- **Quality & tooling:** Linux, Docker, Git, Makefile, CI/CD (GitHub Actions), unit testing, code coverage
 
-My work is centered on three core areas, where I leverage both my technical and engineering management skills:
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### 🛡️ Cybersecurity & Embedded Systems
-* **Data Security Focus:** My main goal is to ensure data security for users, especially in the context of connected machines like the automotive sector.
-* **Automotive Software:** I have developed skills in embedded systems for automotive solutions, recognizing the growing importance of Cybersecurity in this field.
-* **Advanced Study:** I have broadened my knowledge in Cybersecurity and Computer Networks through academic and exchange programs.
+## 📌 Featured Projects
+- **[VMU for Hybrid Vehicles](https://github.com/thiagoricardop/VMU-for-Hybrid-Vehicles)** — Multi-process Vehicle Management Unit simulation in C (VMU/EV/ICE modules, IPC), with Docker, unit tests, LCOV coverage, and Cppcheck static analysis in CI.
+- **[SSH Attack Classification (ML4N)](https://github.com/thiagoricardop/SSH-Shell-Attack-session-ML4N---Project-4)** — ML pipeline classifying ~230k SSH honeypot attack sessions to MITRE ATT&CK tactics.
+- **[Cppcheck Tutorial](https://github.com/thiagoricardop/cppcheck-tutorial)** — Practical guide to static analysis for C/C++ safety-critical code.
 
-### 💻 Software Development & Data Visualization
-* **GUI Development:** Experienced in developing and maintaining Graphical User Interfaces (GUIs) using **Python** to visualize data stored on supercomputers, resulting in a **95%+ user satisfaction rating**.
-* **Business Intelligence (BI):** I actively manipulated, analyzed, and advanced project metrics visualization using BI techniques.
-* **Project Impact:** Improved problem source visualization to increase team efficiency and effectiveness.
-
-### ⚙️ Engineering & Project Management
-* **Systems Acceleration:** As a Systems Engineer Intern, I provided innovative solutions that **accelerated the Design Stage progress by 50%**, completing the stage ahead of schedule.
-* **High-Volume Projects:** I successfully completed over **200 Photovoltaic Power Plant projects** with an approval rate of over 95%.
-
-## 🎓 Looking Ahead
-
-I am currently furthering my expertise by pursuing a **Laurea Magistralle (Master's Degree) in Cybersecurity Engineering** at **Politecnico di Torino** in Italy (2025-2027).
-
-
-## 📧 Connect with Me
-
-I'm always open to discussing new projects, collaborations, or opportunities in Cybersecurity, Software, and Embedded Systems.
-
-
- <a href="https://linkedin.com/in/thiagoricardop" align="left">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://instagram.com/thiagoricardop">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a>
- </div>
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoricardop)
