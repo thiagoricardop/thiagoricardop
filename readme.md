@@ -2,12 +2,14 @@
 
 ### 🚗🔐 Automotive Cybersecurity & Embedded Systems Engineer
 
-I build and secure low-level software for connected vehicles — C/C++, RTOS/POSIX,
-Linux, and the in-vehicle network stack (CAN · LIN · FlexRay · Automotive Ethernet).
+I build and secure low-level software for connected vehicles — C/C++, RTOS/POSIX, Linux, and the in-vehicle network stack (CAN · LIN · FlexRay · Automotive Ethernet).
 
 🎓 M.Sc. Cybersecurity Engineering @ Politecnico di Torino (2025–2026)
+
 🚗 Postgrad in Automotive Software Development @ UFPE
+
 ⚡ B.Sc. Electrical Engineering (emphasis CS) @ UFMG
+
 📍 Santa Cruz, CA · Authorized to work in the US (no sponsorship required)
 
 ---
