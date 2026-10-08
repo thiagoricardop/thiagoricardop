@@ -8,7 +8,7 @@ Linux, and the in-vehicle network stack (CAN · LIN · FlexRay · Automotive Eth
 🎓 M.Sc. Cybersecurity Engineering @ Politecnico di Torino (2025–2026)
 🚗 Postgrad in Automotive Software Development @ UFPE
 ⚡ B.Sc. Electrical Engineering (emphasis CS) @ UFMG
-📍 Santa Cruz, CA · 🇺🇸 Authorized to work in the US (no sponsorship required)
+📍 Santa Cruz, CA · Authorized to work in the US (no sponsorship required)
 
 ---
 
