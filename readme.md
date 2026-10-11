@@ -31,8 +31,8 @@ I build and secure low-level software for connected vehicles — C/C++, RTOS/POS
 
 ## 📌 Featured Projects
 - **[VMU for Hybrid Vehicles](https://github.com/thiagoricardop/VMU-for-Hybrid-Vehicles)** — Multi-process Vehicle Management Unit simulation in C (VMU/EV/ICE modules, IPC), with Docker, unit tests, LCOV coverage, and Cppcheck static analysis in CI.
+- **[Can Bus Sniffer Parser](https://https://github.com/thiagoricardop/can-bus-sniffer-parser)** — CAN bus sniffer, DBC parser, and intrusion-detection (IDS) demo for automotive cybersecurity.
 - **[SSH Attack Classification (ML4N)](https://github.com/thiagoricardop/SSH-Shell-Attack-session-ML4N---Project-4)** — ML pipeline classifying ~230k SSH honeypot attack sessions to MITRE ATT&CK tactics.
-- **[Cppcheck Tutorial](https://github.com/thiagoricardop/cppcheck-tutorial)** — Practical guide to static analysis for C/C++ safety-critical code.
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoricardop)
