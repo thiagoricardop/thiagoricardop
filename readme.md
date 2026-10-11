@@ -6,9 +6,9 @@ I build and secure low-level software for connected vehicles — C/C++, RTOS/POS
 
 🎓 M.Sc. Cybersecurity Engineering @ Politecnico di Torino (2025–2026)
 
-🚗 Postgrad in Automotive Software Development @ UFPE
+🚗 Postgrad in Automotive Software Development @ STELLANTIS + UFPE - Brazil
 
-⚡ B.Sc. Electrical Engineering (emphasis CS) @ UFMG
+⚡ B.Sc. Electrical Engineering (emphasis CS) @ UFMG - Brazil
 
 📍 Santa Cruz, CA · Authorized to work in the US (no sponsorship required)
 
